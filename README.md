@@ -10,7 +10,7 @@ This repository showcases practical queue and concurrency patterns that are usef
 - `MPSCQueueArray.cpp` — a multi-producer / single-consumer array queue
 - `MemoryPooledQueue.cpp` — a queue that reuses memory nodes for lower allocation pressure
 
-## Why this is useful for a resume
+
 These examples demonstrate:
 - familiarity with lock-free and blocking queue design
 - understanding of memory reuse and allocation behavior
